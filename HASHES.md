@@ -115,3 +115,14 @@ c573685c2b1d9bbbee6a434da91bf7b09eb2d6c9107c7f4b2a5fea54b0474d87 | papers/paper6
 0b68e5320de1ce9de94e65117cb0ba0a5f02ef8e475f220f9e4f153403979bcd | papers/paper7_draft_v1.md | recorded=2026-07-13 18:01:49 | first record
 a829b6bb3f5dbc8a304b6fda60902a9895d8f265405b6b2a43ed8801ce955551 | papers/paper8_draft_v1.md | recorded=2026-07-13 18:01:51 | first record
 b64120495cda345b675267d7619e076959147e181adf5bcf97e21c76a0a0ea21 | papers/paper9_draft_v1.md | recorded=2026-07-13 18:01:52 | first record
+448c638d4ebeefbde9a7d57e21a5b32d1c3d8368d808622d6d5cd9b461186605 | results/ch19_chapter_text.md | recorded=2026-07-14 13:16:10 | first record
+5ea9bd09d5322e38d1fcb0164d2d2504ce18eeba3f12b223daa42cdb29b6a54e | results/ch19_d0_run_meta.json | recorded=2026-07-14 13:17:18 | first record
+28aa75ca432271901a9bdddf61a9556d718e95d08fad95ad5164d4ff78d62f14 | results/ch19_d0b_run_meta.json | recorded=2026-07-14 13:17:20 | first record
+73aa17313c599b063cbaf4cdd7f34741e7bf06873dbb858b796f37041f1e112d | results/ch19_jockey_hierarchy_provenance_run_meta.json | recorded=2026-07-14 13:17:22 | first record
+a23b6ca467e2b7c36ac4595aeb2afa4c566d09ae629e2234fc6fbd43fb0255e6 | results/ch19_s54_run_meta.json | recorded=2026-07-14 13:17:24 | first record
+9c9167e4bb76c9c0ec8a53e5fd7293b9fffc855e993a0b66d2bca55df115e258 | results/ch19_s55_run_meta.json | recorded=2026-07-14 13:17:26 | first record
+089b9414357c29bf4927d91af2eb34a798d552c6831d86a7baaa75c3671091a9 | results/ch19_s56_run_meta.json | recorded=2026-07-14 13:17:27 | first record
+6d91c6a9213862662261e946dcc56c3c5927b40f7cd1ba2bca3938b8242f1275 | results/ch19_s57_run_meta.json | recorded=2026-07-14 13:17:29 | first record
+d3d1a4e8f5f09aa248a82913b22f0389b4db97d8254131df23ef024ad5ab963f | results/ch19_s58_run_meta.json | recorded=2026-07-14 13:17:31 | first record
+d3d1a4e8f5f09aa248a82913b22f0389b4db97d8254131df23ef024ad5ab963f | results/run_meta.json | recorded=2026-07-14 13:17:55 | updated (content changed since a prior record)
+42d7ff976ec3caedc2c62289792e59fac5f22e38735517687cf198a5df097063 | papers/paper16_draft_v1.md | recorded=2026-07-14 13:18:07 | first record
