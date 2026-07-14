@@ -126,3 +126,12 @@ a23b6ca467e2b7c36ac4595aeb2afa4c566d09ae629e2234fc6fbd43fb0255e6 | results/ch19_
 d3d1a4e8f5f09aa248a82913b22f0389b4db97d8254131df23ef024ad5ab963f | results/ch19_s58_run_meta.json | recorded=2026-07-14 13:17:31 | first record
 d3d1a4e8f5f09aa248a82913b22f0389b4db97d8254131df23ef024ad5ab963f | results/run_meta.json | recorded=2026-07-14 13:17:55 | updated (content changed since a prior record)
 42d7ff976ec3caedc2c62289792e59fac5f22e38735517687cf198a5df097063 | papers/paper16_draft_v1.md | recorded=2026-07-14 13:18:07 | first record
+34c47431df4c8edc308c653269ad83ea34cdb33a7bb67d47f6fd5cc93befc0ee | results/ch20_chapter_text.md | recorded=2026-07-14 16:57:13 | first record
+8a2e178bda8a241f1025c0678858bb9b1f32fee0b2f8ac3aaf582f93c94d400e | results/ch20_d0_002_run_meta.json | recorded=2026-07-14 16:58:42 | first record
+0cc66e87caade32b453b6c736a9ad9a30d1249eca22248ccc8f3cc97da4e24bc | results/ch20_d0_run_meta.json | recorded=2026-07-14 16:58:44 | first record
+b6bc3315d41238d7a164a24a1f40a04e4a80af24f1a32580db4c0ebd452a4dfb | results/ch20_s59_run_meta.json | recorded=2026-07-14 16:58:46 | first record
+d0fd29e830ff6076701590b2c13ce86098f89ccb672d485bc38890b98a910823 | results/ch20_s60_run_meta.json | recorded=2026-07-14 16:58:49 | first record
+ed869423e6f95f9631dbe2328d31e116fe5ed71d6459edc57506fa8242503258 | results/ch20_s61_run_meta.json | recorded=2026-07-14 16:58:51 | first record
+6b6bba1bda1ddda9916948439c150e5476752d383abbcaeae29746c5152a18cc | results/ch20_s62_run_meta.json | recorded=2026-07-14 16:58:53 | first record
+30bca880ad64ed5994c2adcfc0aba59c8d11fb7a2acebaf141d7df5b648859ab | results/ch20_s63_run_meta.json | recorded=2026-07-14 16:58:56 | first record
+7da21289ead0d9e98c5788093b61559a51e86878329317504d4e072b98f72c70 | papers/paper17_draft_v1.md | recorded=2026-07-14 16:59:29 | first record
