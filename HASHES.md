@@ -262,3 +262,4 @@ af4fe70bc173bf32dcc891d46ab9ac1c4abfda584ccb0c9f7a5a80d2af7d8e3d | results/nar_c
 b3cf59713a61a3512df1c3189c0b50d837c37383ed8fac3b5a1d6ee9c9bd8f39 | results/ch7_e1r_policy_metrics_preregistered.csv | recorded=2026-07-15 12:27:06 | first record - prereg (retroactive backfill 2026-07-15; compute already ran prior to this record - NOT evidence of priority)
 eaaa65c92dfbe38462b32a9de1ad19f4aa7c5038d486a0f6440ecac10de1dfdd | results/ch23_d0_run_meta.json | recorded=2026-07-15 17:43:51 | first record
 f70f4e6d5e7a690860ed79b02d9fe3dbc926c3ba03317748183d8c42642215d5 | results/ch23_d0_preregistration.md | recorded=2026-07-15 17:48:27 | first record - prereg (recorded before compute)
+611b17b1e4cf21ca0444ff227e66407e76446d7f57c36a26e3dacabe7146ac83 | V-ATTEST-001.md | recorded=2026-07-16 08:27:42 | first record - V-ATTEST-001 (CH1-CH22 verdict preregistration attestation; provable_prospective_from starts at external registration, not at this recorded= timestamp)
