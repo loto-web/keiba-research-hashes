@@ -273,3 +273,5 @@ cf1cc76a2d495081fc0b8c77c025d30e571a7127505b8dc02e84b8345f8e35b1 | results/ch23_
 03b335fa7b7f3a30c7d99a2b73ea156338589888de37824c3c831a8cfeb7a196 | results/ch23_s76_run_meta.json | recorded=2026-07-17 20:13:24 | first record
 2217ce19541eca6d18048ff59394a1fa39f4fcbe51ce97be2fdf92977ca1867d | results/ch23_s76_preregistration.md | recorded=2026-07-17 20:13:55 | first record - prereg (recorded before compute)
 c04fa2239706da0e607589cc57e3d1ea1a39e70fe7b52361a6b47c0fe5d2bf0f | results/ch23_s77_run_meta.json | recorded=2026-07-17 20:29:28 | first record
+adf900a43c7a381588f3529660d64f022e6fe285423cddb33a87afd5ce7e2d6a | results/ch23_s78_run_meta.json | recorded=2026-07-17 20:36:44 | first record
+535a2850260edb189234b2a7d65eafba679f5593b9cb3bfe13e2f5a367e5567f | results/ch23_s78_preregistration.md | recorded=2026-07-17 20:37:10 | first record - prereg (recorded before compute)
