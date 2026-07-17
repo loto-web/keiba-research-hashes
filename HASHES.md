@@ -268,3 +268,5 @@ f70f4e6d5e7a690860ed79b02d9fe3dbc926c3ba03317748183d8c42642215d5 | results/ch23_
 ee5a4a408ec5310f78297aa28e2fa902e89cbe82ae95d8eea30b94281955bf95 | vnext/extract_full/signal_full_v2_lockbox.parquet | recorded=2026-07-16 22:42:20 | first record - TRACKV-EXTRACT-FULL-002 scheme-A lockbox split (sealed, contents not opened beyond row/race/date-range/crosstab metadata)
 695b6d0ba3c069b475313fdc8b4e04c7374d50f0918bb9420214d142090b7ca4 | vnext/extract_full/FULL_EXTRACT_MANIFEST_v2.md | recorded=2026-07-16 22:42:20 | first record - TRACKV-EXTRACT-FULL-002 manifest
 665ec024a662c8a07ff087aee21bd4c87e05db7774e23fd51215d2d26bdbbd34 | results/ch23_d0_run_meta.json | recorded=2026-07-17 19:33:50 | updated (content changed since a prior record)
+cf1cc76a2d495081fc0b8c77c025d30e571a7127505b8dc02e84b8345f8e35b1 | results/ch23_s75_run_meta.json | recorded=2026-07-17 19:51:58 | first record
+04b8fee08799941ab26c5a0e2c1ec97632d02b76165bf0a1e3939a9018974536 | results/ch23_s75_preregistration.md | recorded=2026-07-17 19:52:21 | first record - prereg (recorded before compute)
