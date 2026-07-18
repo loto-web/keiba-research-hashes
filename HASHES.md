@@ -280,3 +280,4 @@ adf900a43c7a381588f3529660d64f022e6fe285423cddb33a87afd5ce7e2d6a | results/ch23_
 4e944d63a33035319605cc61b83c0e3b6482bbd485e6c0bdbc40171294b6525f | results/ch23_chapter_text.md | recorded=2026-07-17 21:25:31 | first record
 95f9e02e195c176ebbbc88c342e64eac5908c24f30495209d0c49e41309b63d9 | papers/paper20_draft_v1.md | recorded=2026-07-17 21:25:56 | first record
 b87c32597d0731ee9f2be250a4a2b01a4ac097f9e9f715eda5068b52c801189d | results/ch24_d0_run_meta.json | recorded=2026-07-18 01:47:22 | first record
+a5f4c88893d33bdee4172061efd67670268da99bef670041641e543546ca0374 | results/ch24_d0_reaudit_i_run_meta.json | recorded=2026-07-18 09:38:21 | first record
