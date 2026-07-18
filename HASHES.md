@@ -283,3 +283,4 @@ b87c32597d0731ee9f2be250a4a2b01a4ac097f9e9f715eda5068b52c801189d | results/ch24_
 a5f4c88893d33bdee4172061efd67670268da99bef670041641e543546ca0374 | results/ch24_d0_reaudit_i_run_meta.json | recorded=2026-07-18 09:38:21 | first record
 730e2c2ca2f5144f909276680c7af8dc599f5e308df06dc1526cfe073b85c596 | results/ch24_d0_reaudit_iii_iv_run_meta.json | recorded=2026-07-18 10:47:49 | first record
 d80cf659bc1a518cf41079b63a5875353b2f7917637506335f62797e480859ae | results/ch24_d0b_grid_run_meta.json | recorded=2026-07-18 10:47:50 | first record
+e8ba364abda3c21c0e43d3d886cfe73249a62a69f0245c7d0b8876a6314e334a | results/ch24_s81_run_meta.json | recorded=2026-07-18 12:51:10 | first record
