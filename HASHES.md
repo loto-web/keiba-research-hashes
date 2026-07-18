@@ -295,3 +295,6 @@ b3d6da110e4dc716ed6d4f3e78355200afcacb11b857200441337e50522b027e | results/ch25_
 502e6c22938df1351aa0bd04884f6a0e4ce04f767fd12812e11edee16dba5177 | results/ch25_s87_run_meta.json | recorded=2026-07-18 16:21:55 | first record
 c024f2741e0eae1223f666e7b17d24b29a925947a67148a5f9a6d252236afcb5 | results/ch25_dt2_run_meta.json | recorded=2026-07-18 16:39:21 | first record
 0af841f9c06d21912f09d4d1566e29b7ca4e7a860b80bbf83129fd6d1edaad3e | results/ch25_s88_run_meta.json | recorded=2026-07-18 16:52:43 | first record
+8abc4fd05db3c11c4c0db56ed5fb490d2417ddfff49ae3e4122a8095a334242b | results/ch25_chapter_text.md | recorded=2026-07-18 17:07:14 | first record
+372a38417f14b116b963a32e81ca058a4290350385b770e0934263f82700c8e4 | results/ch25_c1_run_meta.json | recorded=2026-07-18 17:08:28 | first record
+f61417970fb387c0f35bd8310f49278d65fa6e988fb539eb92598c1dcbfed6f4 | papers/paper22_draft_v1.md | recorded=2026-07-18 17:09:03 | first record
