@@ -281,3 +281,5 @@ adf900a43c7a381588f3529660d64f022e6fe285423cddb33a87afd5ce7e2d6a | results/ch23_
 95f9e02e195c176ebbbc88c342e64eac5908c24f30495209d0c49e41309b63d9 | papers/paper20_draft_v1.md | recorded=2026-07-17 21:25:56 | first record
 b87c32597d0731ee9f2be250a4a2b01a4ac097f9e9f715eda5068b52c801189d | results/ch24_d0_run_meta.json | recorded=2026-07-18 01:47:22 | first record
 a5f4c88893d33bdee4172061efd67670268da99bef670041641e543546ca0374 | results/ch24_d0_reaudit_i_run_meta.json | recorded=2026-07-18 09:38:21 | first record
+730e2c2ca2f5144f909276680c7af8dc599f5e308df06dc1526cfe073b85c596 | results/ch24_d0_reaudit_iii_iv_run_meta.json | recorded=2026-07-18 10:47:49 | first record
+d80cf659bc1a518cf41079b63a5875353b2f7917637506335f62797e480859ae | results/ch24_d0b_grid_run_meta.json | recorded=2026-07-18 10:47:50 | first record
