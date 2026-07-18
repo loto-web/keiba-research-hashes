@@ -304,3 +304,5 @@ f61417970fb387c0f35bd8310f49278d65fa6e988fb539eb92598c1dcbfed6f4 | papers/paper2
 f1f37dbd0942adef7761c5ff2aaceaa1b94b46b917420d5f1fc16654e61224b2 | results/ch26_s91_divergence_run_meta.json | recorded=2026-07-19 06:04:07 | first record
 f1d730d545a4bf96a85ca90836a1a4080b953398c977ce689110749a7c1509af | results/ch26_s92_encompassing_run_meta.json | recorded=2026-07-19 06:10:54 | first record
 9468c966c7af87d8a4372254193a1f534e57b4377397aa308efebe9d048b5680 | results/ch26_s93_discrimination_run_meta.json | recorded=2026-07-19 06:21:05 | first record
+f129bea405b18bd552fa82ef977b246e6baeb7067c3b827a76e801dba49a51f5 | results/ch26_s94_absorption_run_meta.json | recorded=2026-07-19 06:35:59 | first record
+98937ba2e7ff0ea5fb7ef06d77c160d9c60ceb90128b43770a697b43290cda4f | results/ch26_s95_composition_run_meta.json | recorded=2026-07-19 06:36:00 | first record
