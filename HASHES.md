@@ -289,3 +289,4 @@ e8ba364abda3c21c0e43d3d886cfe73249a62a69f0245c7d0b8876a6314e334a | results/ch24_
 dfe7df4c3138f7f3cd181e8a43832b012e938151c97cdf56d5d6dcf5279ead01 | results/ch24_s85_run_meta.json | recorded=2026-07-18 13:45:32 | first record
 5c5932aa5670ffeac9dbb8fc963cccce0d317e4e10fa16649ce4f78ba50166c8 | results/ch24_chapter_text.md | recorded=2026-07-18 14:23:13 | first record
 bb2d0a9ecef7f055fbb4b2a84dc3a12aae953c3a2ec8d13a1cdc80da0741b577 | papers/paper21_draft_v1.md | recorded=2026-07-18 14:24:31 | first record
+b9549634d6155f621b8c8f1b7306e5299bac0dc0c130801ab0a5a13fc52a26b9 | results/ch25_d0_run_meta.json | recorded=2026-07-18 15:37:20 | first record
