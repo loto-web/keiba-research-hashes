@@ -294,3 +294,4 @@ dca5557d12ca75f81c4e3e72a2b3d736f9e6dec128764c84ceb3e8236468c7de | results/ch25_
 b3d6da110e4dc716ed6d4f3e78355200afcacb11b857200441337e50522b027e | results/ch25_s86_preregistration.md | recorded=2026-07-18 16:04:34 | first record - prereg (recorded before compute)
 502e6c22938df1351aa0bd04884f6a0e4ce04f767fd12812e11edee16dba5177 | results/ch25_s87_run_meta.json | recorded=2026-07-18 16:21:55 | first record
 c024f2741e0eae1223f666e7b17d24b29a925947a67148a5f9a6d252236afcb5 | results/ch25_dt2_run_meta.json | recorded=2026-07-18 16:39:21 | first record
+0af841f9c06d21912f09d4d1566e29b7ca4e7a860b80bbf83129fd6d1edaad3e | results/ch25_s88_run_meta.json | recorded=2026-07-18 16:52:43 | first record
