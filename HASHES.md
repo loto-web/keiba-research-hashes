@@ -301,3 +301,4 @@ f61417970fb387c0f35bd8310f49278d65fa6e988fb539eb92598c1dcbfed6f4 | papers/paper2
 05dd419dcfadcaeb38c570a2d9a10248fc586156a8f367e1a2d1b8845f2f0663 | results/ch26_d0a_fuku_audit_run_meta.json | recorded=2026-07-18 18:16:49 | first record
 13adb7f1532fb151e4399722ce8c24a056dcb8b61efd2665c61b72199e44c591 | results/ch26_d0b_build_run_meta.json | recorded=2026-07-18 18:27:47 | first record
 00b45792a8c88515dda99190c14c02305af33893340f5519e2ea4451d8a96c1f | results/ch26_d0b_verify_run_meta.json | recorded=2026-07-18 18:39:29 | first record
+f1f37dbd0942adef7761c5ff2aaceaa1b94b46b917420d5f1fc16654e61224b2 | results/ch26_s91_divergence_run_meta.json | recorded=2026-07-19 06:04:07 | first record
