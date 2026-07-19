@@ -310,3 +310,4 @@ f129bea405b18bd552fa82ef977b246e6baeb7067c3b827a76e801dba49a51f5 | results/ch26_
 189fe7be0b8517063bf969113839ff01d1e00e61c0ce70352a294d7033e95bd4 | results/ch26_chapter_text.md | recorded=2026-07-19 07:07:11 | first record
 bb2486e1497a467369729ceeecb7054198802f7f03a9e5789fab99775efc067f | papers/paper23_draft_v1.md | recorded=2026-07-19 07:08:09 | first record
 b9f56f66b8f2802084bae7ab47b7ac7754c255eedede611257fc34890c5ad011 | altdata/provenance/rollup_20260719.txt | recorded=2026-07-19 14:20:37 | first record
+22e33cded8ae9516c2ba1c37bddf6b73261daeb170d17de6289719c0f461f8fe | altdata/provenance/rollup_20260720.txt | recorded=2026-07-20 07:39:50 | first record
